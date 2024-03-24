@@ -1,7 +1,7 @@
 INSTRUCTIONS TO DEPLOY :
 
 Step 1: Clone the Repository
-  Open a terminal or command prompt. cmd line "git clone " 
+  Open a terminal or command prompt. cmd line "git clone https://github.com/mahanthvamsi/Vehical_detector.git" 
 
 step 2 : Docker compose
   "docker compose up -d"
